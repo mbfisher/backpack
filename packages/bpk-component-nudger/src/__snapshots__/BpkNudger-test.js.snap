@@ -16,23 +16,23 @@ exports[`BpkNudger should render as a configurable nudger correctly 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -61,23 +61,23 @@ exports[`BpkNudger should render as a configurable nudger correctly 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -105,23 +105,23 @@ exports[`BpkNudger should render as an outline nudger correctly 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -150,23 +150,23 @@ exports[`BpkNudger should render as an outline nudger correctly 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -194,23 +194,23 @@ exports[`BpkNudger should render correctly 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -239,23 +239,23 @@ exports[`BpkNudger should render correctly 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -283,23 +283,23 @@ exports[`BpkNudger should render correctly with a "className" attribute 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -328,23 +328,23 @@ exports[`BpkNudger should render correctly with a "className" attribute 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -372,23 +372,23 @@ exports[`BpkNudger should render correctly with a value < min 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon bpk-nudger__icon--disabled"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -417,23 +417,23 @@ exports[`BpkNudger should render correctly with a value < min 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -461,23 +461,23 @@ exports[`BpkNudger should render correctly with a value = max 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -506,23 +506,23 @@ exports[`BpkNudger should render correctly with a value = max 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon bpk-nudger__icon--disabled"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -550,23 +550,23 @@ exports[`BpkNudger should render correctly with a value = min 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon bpk-nudger__icon--disabled"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -595,23 +595,23 @@ exports[`BpkNudger should render correctly with a value = min 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -639,23 +639,23 @@ exports[`BpkNudger should render correctly with a value > max 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -684,23 +684,23 @@ exports[`BpkNudger should render correctly with a value > max 1`] = `
       style={
         Object {
           "display": "inline-block",
-          "lineHeight": "1.125rem",
-          "marginTop": "0.1875rem",
+          "lineHeight": "1rem",
+          "marginTop": "0.5rem",
           "verticalAlign": "top",
         }
       }
     >
       <svg
         className="bpk-nudger__icon bpk-nudger__icon--disabled"
-        height="18"
+        height="16"
         style={
           Object {
-            "height": "1.125rem",
-            "width": "1.125rem",
+            "height": "1rem",
+            "width": "1rem",
           }
         }
         viewBox="0 0 24 24"
-        width="18"
+        width="16"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path

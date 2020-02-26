@@ -1,238 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`BpkDataTable should render correctly when "onRowClick" is set 1`] = `
-<div
-  style={
-    Object {
-      "overflow": "visible",
-      "width": 0,
-    }
-  }
->
-  <div
-    className="ReactVirtualized__Table bpk-data-table"
-    role="grid"
-    style={Object {}}
-  >
-    <div
-      className="ReactVirtualized__Table__headerRow bpk-data-table__row bpk-data-table__row--clickable bpk-data-table__header-row"
-      role="row"
-      style={
-        Object {
-          "height": 60,
-          "overflow": "hidden",
-          "paddingRight": 0,
-          "width": 0,
-        }
-      }
-    >
-      <div
-        aria-label="Name"
-        aria-sort="ascending"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "0 1 100px",
-            "flex": "0 1 100px",
-            "msFlex": "0 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Name"
-        >
-          Name
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-      <div
-        aria-label="Description"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "1 1 100px",
-            "flex": "1 1 100px",
-            "msFlex": "1 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Description"
-        >
-          Description
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-      <div
-        aria-label="Bla"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "0 1 100px",
-            "flex": "0 1 100px",
-            "msFlex": "0 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Bla"
-        >
-          Bla
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-    </div>
-    <div
-      aria-label="grid"
-      aria-readonly={true}
-      className="ReactVirtualized__Grid ReactVirtualized__Table__Grid"
-      onScroll={[Function]}
-      role="rowgroup"
-      style={
-        Object {
-          "WebkitOverflowScrolling": "touch",
-          "boxSizing": "border-box",
-          "direction": undefined,
-          "height": 140,
-          "overflowX": "hidden",
-          "overflowY": "hidden",
-          "position": "relative",
-          "width": 0,
-          "willChange": "transform",
-        }
-      }
-      tabIndex={0}
-    />
-  </div>
-</div>
-`;
-
 exports[`BpkDataTable should render correctly with a custom className 1`] = `
 <div
   style={
@@ -285,37 +52,37 @@ exports[`BpkDataTable should render correctly with a custom className 1`] = `
           className="bpk-data-table-column__sort-icons"
         >
           <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
-            height="18"
+            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+              d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
             />
           </svg>
           <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
+            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+              d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
             />
           </svg>
         </div>
@@ -346,36 +113,36 @@ exports[`BpkDataTable should render correctly with a custom className 1`] = `
         >
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+              d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
             />
           </svg>
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+              d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
             />
           </svg>
         </div>
@@ -406,735 +173,36 @@ exports[`BpkDataTable should render correctly with a custom className 1`] = `
         >
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+              d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
             />
           </svg>
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-    </div>
-    <div
-      aria-label="grid"
-      aria-readonly={true}
-      className="ReactVirtualized__Grid ReactVirtualized__Table__Grid"
-      onScroll={[Function]}
-      role="rowgroup"
-      style={
-        Object {
-          "WebkitOverflowScrolling": "touch",
-          "boxSizing": "border-box",
-          "direction": undefined,
-          "height": 140,
-          "overflowX": "hidden",
-          "overflowY": "hidden",
-          "position": "relative",
-          "width": 0,
-          "willChange": "transform",
-        }
-      }
-      tabIndex={0}
-    />
-  </div>
-</div>
-`;
-
-exports[`BpkDataTable should render correctly with a custom headerClassName 1`] = `
-<div
-  style={
-    Object {
-      "overflow": "visible",
-      "width": 0,
-    }
-  }
->
-  <div
-    className="ReactVirtualized__Table bpk-data-table"
-    role="grid"
-    style={Object {}}
-  >
-    <div
-      className="ReactVirtualized__Table__headerRow bpk-data-table__row bpk-data-table__header-row"
-      role="row"
-      style={
-        Object {
-          "height": 60,
-          "overflow": "hidden",
-          "paddingRight": 0,
-          "width": 0,
-        }
-      }
-    >
-      <div
-        aria-label="Name"
-        aria-sort="ascending"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column custom-data-table__header"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "0 1 100px",
-            "flex": "0 1 100px",
-            "msFlex": "0 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Name"
-        >
-          Name
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-      <div
-        aria-label="Description"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column custom-data-table__header"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "1 1 100px",
-            "flex": "1 1 100px",
-            "msFlex": "1 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Description"
-        >
-          Description
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-      <div
-        aria-label="Bla"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column custom-data-table__header"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "0 1 100px",
-            "flex": "0 1 100px",
-            "msFlex": "0 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Bla"
-        >
-          Bla
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-    </div>
-    <div
-      aria-label="grid"
-      aria-readonly={true}
-      className="ReactVirtualized__Grid ReactVirtualized__Table__Grid"
-      onScroll={[Function]}
-      role="rowgroup"
-      style={
-        Object {
-          "WebkitOverflowScrolling": "touch",
-          "boxSizing": "border-box",
-          "direction": undefined,
-          "height": 140,
-          "overflowX": "hidden",
-          "overflowY": "hidden",
-          "position": "relative",
-          "width": 0,
-          "willChange": "transform",
-        }
-      }
-      tabIndex={0}
-    />
-  </div>
-</div>
-`;
-
-exports[`BpkDataTable should render correctly with a custom rowClassName function 1`] = `
-<div
-  style={
-    Object {
-      "overflow": "visible",
-      "width": 0,
-    }
-  }
->
-  <div
-    className="ReactVirtualized__Table bpk-data-table"
-    role="grid"
-    style={Object {}}
-  >
-    <div
-      className="ReactVirtualized__Table__headerRow bpk-data-table__row bpk-data-table__header-row custom-data-table__row_odd"
-      role="row"
-      style={
-        Object {
-          "height": 60,
-          "overflow": "hidden",
-          "paddingRight": 0,
-          "width": 0,
-        }
-      }
-    >
-      <div
-        aria-label="Name"
-        aria-sort="ascending"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "0 1 100px",
-            "flex": "0 1 100px",
-            "msFlex": "0 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Name"
-        >
-          Name
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-      <div
-        aria-label="Description"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "1 1 100px",
-            "flex": "1 1 100px",
-            "msFlex": "1 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Description"
-        >
-          Description
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-      <div
-        aria-label="Bla"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "0 1 100px",
-            "flex": "0 1 100px",
-            "msFlex": "0 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Bla"
-        >
-          Bla
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-    </div>
-    <div
-      aria-label="grid"
-      aria-readonly={true}
-      className="ReactVirtualized__Grid ReactVirtualized__Table__Grid"
-      onScroll={[Function]}
-      role="rowgroup"
-      style={
-        Object {
-          "WebkitOverflowScrolling": "touch",
-          "boxSizing": "border-box",
-          "direction": undefined,
-          "height": 140,
-          "overflowX": "hidden",
-          "overflowY": "hidden",
-          "position": "relative",
-          "width": 0,
-          "willChange": "transform",
-        }
-      }
-      tabIndex={0}
-    />
-  </div>
-</div>
-`;
-
-exports[`BpkDataTable should render correctly with a custom rowClassName string 1`] = `
-<div
-  style={
-    Object {
-      "overflow": "visible",
-      "width": 0,
-    }
-  }
->
-  <div
-    className="ReactVirtualized__Table bpk-data-table"
-    role="grid"
-    style={Object {}}
-  >
-    <div
-      className="ReactVirtualized__Table__headerRow bpk-data-table__row bpk-data-table__header-row custom-data-table__row"
-      role="row"
-      style={
-        Object {
-          "height": 60,
-          "overflow": "hidden",
-          "paddingRight": 0,
-          "width": 0,
-        }
-      }
-    >
-      <div
-        aria-label="Name"
-        aria-sort="ascending"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "0 1 100px",
-            "flex": "0 1 100px",
-            "msFlex": "0 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Name"
-        >
-          Name
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-      <div
-        aria-label="Description"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "1 1 100px",
-            "flex": "1 1 100px",
-            "msFlex": "1 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Description"
-        >
-          Description
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
-            />
-          </svg>
-        </div>
-      </div>
-      <div
-        aria-label="Bla"
-        className="ReactVirtualized__Table__headerColumn bpk-data-table__header-column"
-        onClick={[Function]}
-        onKeyDown={[Function]}
-        role="columnheader"
-        style={
-          Object {
-            "WebkitFlex": "0 1 100px",
-            "flex": "0 1 100px",
-            "msFlex": "0 1 100px",
-          }
-        }
-        tabIndex={0}
-      >
-        <span
-          className="bpk-data-table-column__header"
-          title="Bla"
-        >
-          Bla
-        </span>
-        <div
-          className="bpk-data-table-column__sort-icons"
-        >
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
-            />
-          </svg>
-          <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
-            style={
-              Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
-              }
-            }
-            viewBox="0 0 24 24"
-            width="18"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+              d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
             />
           </svg>
         </div>
@@ -1209,37 +277,37 @@ exports[`BpkDataTable should render correctly with a specified width 1`] = `
         className="bpk-data-table-column__sort-icons"
       >
         <svg
-          className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
-          height="18"
+          className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
+          height="16"
           style={
             Object {
-              "height": "1.125rem",
-              "width": "1.125rem",
+              "height": "1rem",
+              "width": "1rem",
             }
           }
           viewBox="0 0 24 24"
-          width="18"
+          width="16"
           xmlns="http://www.w3.org/2000/svg"
         >
           <path
-            d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+            d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
           />
         </svg>
         <svg
-          className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-          height="18"
+          className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
+          height="16"
           style={
             Object {
-              "height": "1.125rem",
-              "width": "1.125rem",
+              "height": "1rem",
+              "width": "1rem",
             }
           }
           viewBox="0 0 24 24"
-          width="18"
+          width="16"
           xmlns="http://www.w3.org/2000/svg"
         >
           <path
-            d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+            d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
           />
         </svg>
       </div>
@@ -1270,36 +338,36 @@ exports[`BpkDataTable should render correctly with a specified width 1`] = `
       >
         <svg
           className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-          height="18"
+          height="16"
           style={
             Object {
-              "height": "1.125rem",
-              "width": "1.125rem",
+              "height": "1rem",
+              "width": "1rem",
             }
           }
           viewBox="0 0 24 24"
-          width="18"
+          width="16"
           xmlns="http://www.w3.org/2000/svg"
         >
           <path
-            d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+            d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
           />
         </svg>
         <svg
           className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-          height="18"
+          height="16"
           style={
             Object {
-              "height": "1.125rem",
-              "width": "1.125rem",
+              "height": "1rem",
+              "width": "1rem",
             }
           }
           viewBox="0 0 24 24"
-          width="18"
+          width="16"
           xmlns="http://www.w3.org/2000/svg"
         >
           <path
-            d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+            d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
           />
         </svg>
       </div>
@@ -1330,36 +398,36 @@ exports[`BpkDataTable should render correctly with a specified width 1`] = `
       >
         <svg
           className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-          height="18"
+          height="16"
           style={
             Object {
-              "height": "1.125rem",
-              "width": "1.125rem",
+              "height": "1rem",
+              "width": "1rem",
             }
           }
           viewBox="0 0 24 24"
-          width="18"
+          width="16"
           xmlns="http://www.w3.org/2000/svg"
         >
           <path
-            d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+            d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
           />
         </svg>
         <svg
           className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-          height="18"
+          height="16"
           style={
             Object {
-              "height": "1.125rem",
-              "width": "1.125rem",
+              "height": "1rem",
+              "width": "1rem",
             }
           }
           viewBox="0 0 24 24"
-          width="18"
+          width="16"
           xmlns="http://www.w3.org/2000/svg"
         >
           <path
-            d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+            d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
           />
         </svg>
       </div>
@@ -1586,37 +654,37 @@ exports[`BpkDataTable should render correctly with multiple columns 1`] = `
           className="bpk-data-table-column__sort-icons"
         >
           <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
-            height="18"
+            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+              d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
             />
           </svg>
           <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
+            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+              d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
             />
           </svg>
         </div>
@@ -1647,36 +715,36 @@ exports[`BpkDataTable should render correctly with multiple columns 1`] = `
         >
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+              d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
             />
           </svg>
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+              d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
             />
           </svg>
         </div>
@@ -1707,36 +775,36 @@ exports[`BpkDataTable should render correctly with multiple columns 1`] = `
         >
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+              d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
             />
           </svg>
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+              d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
             />
           </svg>
         </div>
@@ -1819,37 +887,37 @@ exports[`BpkDataTable should render correctly with no data; only headers 1`] = `
           className="bpk-data-table-column__sort-icons"
         >
           <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
-            height="18"
+            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+              d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
             />
           </svg>
           <svg
-            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
+            className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-data-table-column__sort-icon--selected bpk-icon--rtl-support"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+              d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
             />
           </svg>
         </div>
@@ -1880,36 +948,36 @@ exports[`BpkDataTable should render correctly with no data; only headers 1`] = `
         >
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+              d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
             />
           </svg>
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+              d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
             />
           </svg>
         </div>
@@ -1940,36 +1008,36 @@ exports[`BpkDataTable should render correctly with no data; only headers 1`] = `
         >
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--up bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M7.463 15.75h9.074a1.358 1.358 0 0 0 1.11-2.251l-4.354-4.77a1.53 1.53 0 0 0-2.184-.04l-4.718 4.77a1.357 1.357 0 0 0 1.072 2.291z"
+              d="M4.3 15.7L12 8.6l7.7 7.1c.6.6.2 1.7-.7 1.7H5c-.9 0-1.3-1-.7-1.7z"
             />
           </svg>
           <svg
             className="bpk-data-table-column__sort-icon bpk-data-table-column__sort-icon--down bpk-icon--rtl-support"
-            height="18"
+            height="16"
             style={
               Object {
-                "height": "1.125rem",
-                "width": "1.125rem",
+                "height": "1rem",
+                "width": "1rem",
               }
             }
             viewBox="0 0 24 24"
-            width="18"
+            width="16"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M16.537 8.25H7.463a1.358 1.358 0 0 0-1.11 2.251l4.354 4.77a1.53 1.53 0 0 0 2.184.04l4.718-4.77a1.357 1.357 0 0 0-1.072-2.291z"
+              d="M19.7 10.3L12 17.4l-7.7-7.1c-.6-.6-.2-1.7.7-1.7h14c.9 0 1.3 1.1.7 1.7z"
             />
           </svg>
         </div>
