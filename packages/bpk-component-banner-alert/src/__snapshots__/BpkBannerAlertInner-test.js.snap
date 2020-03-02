@@ -36,7 +36,7 @@ exports[`BpkBannerAlertInner should render correctly with "type" attribute equal
                 Object {
                   "display": "inline-block",
                   "lineHeight": "1.125rem",
-                  "marginTop": "0.4375rem",
+                  "marginTop": "0.1875rem",
                   "verticalAlign": "top",
                 }
               }
@@ -130,7 +130,7 @@ exports[`BpkBannerAlertInner should render correctly with "type" attribute equal
                 Object {
                   "display": "inline-block",
                   "lineHeight": "1.125rem",
-                  "marginTop": "0.4375rem",
+                  "marginTop": "0.1875rem",
                   "verticalAlign": "top",
                 }
               }
@@ -506,7 +506,7 @@ exports[`BpkBannerAlertInner should render correctly with "type" attribute equal
                 Object {
                   "display": "inline-block",
                   "lineHeight": "1.125rem",
-                  "marginTop": "0.4375rem",
+                  "marginTop": "0.1875rem",
                   "verticalAlign": "top",
                 }
               }
@@ -600,7 +600,7 @@ exports[`BpkBannerAlertInner should render correctly with "type" attribute equal
                 Object {
                   "display": "inline-block",
                   "lineHeight": "1.125rem",
-                  "marginTop": "0.4375rem",
+                  "marginTop": "0.1875rem",
                   "verticalAlign": "top",
                 }
               }
@@ -694,7 +694,7 @@ exports[`BpkBannerAlertInner should render correctly with a custom banner-alert 
                 Object {
                   "display": "inline-block",
                   "lineHeight": "1.125rem",
-                  "marginTop": "0.4375rem",
+                  "marginTop": "0.1875rem",
                   "verticalAlign": "top",
                 }
               }
@@ -788,7 +788,7 @@ exports[`BpkBannerAlertInner should render correctly with a custom class name 1`
                 Object {
                   "display": "inline-block",
                   "lineHeight": "1.125rem",
-                  "marginTop": "0.4375rem",
+                  "marginTop": "0.1875rem",
                   "verticalAlign": "top",
                 }
               }
@@ -882,7 +882,7 @@ exports[`BpkBannerAlertInner should render correctly with a element based messag
                 Object {
                   "display": "inline-block",
                   "lineHeight": "1.125rem",
-                  "marginTop": "0.4375rem",
+                  "marginTop": "0.1875rem",
                   "verticalAlign": "top",
                 }
               }
@@ -933,7 +933,7 @@ exports[`BpkBannerAlertInner should render correctly with a element based messag
                   Object {
                     "display": "inline-block",
                     "lineHeight": "1.125rem",
-                    "marginTop": "0.4375rem",
+                    "marginTop": "0.1875rem",
                     "verticalAlign": "top",
                   }
                 }
@@ -1024,7 +1024,7 @@ exports[`BpkBannerAlertInner should render correctly with animateOnLeave 1`] = `
                 Object {
                   "display": "inline-block",
                   "lineHeight": "1.125rem",
-                  "marginTop": "0.4375rem",
+                  "marginTop": "0.1875rem",
                   "verticalAlign": "top",
                 }
               }
@@ -1147,7 +1147,7 @@ exports[`BpkBannerAlertInner should render correctly with arbitrary props 1`] = 
                 Object {
                   "display": "inline-block",
                   "lineHeight": "1.125rem",
-                  "marginTop": "0.4375rem",
+                  "marginTop": "0.1875rem",
                   "verticalAlign": "top",
                 }
               }
@@ -1241,7 +1241,7 @@ exports[`BpkBannerAlertInner should render correctly with child nodes 1`] = `
                 Object {
                   "display": "inline-block",
                   "lineHeight": "1.125rem",
-                  "marginTop": "0.4375rem",
+                  "marginTop": "0.1875rem",
                   "verticalAlign": "top",
                 }
               }
@@ -1287,7 +1287,7 @@ exports[`BpkBannerAlertInner should render correctly with child nodes 1`] = `
                   Object {
                     "display": "inline-block",
                     "lineHeight": "1.125rem",
-                    "marginTop": "0.4375rem",
+                    "marginTop": "0.1875rem",
                     "verticalAlign": "top",
                   }
                 }
@@ -1378,7 +1378,7 @@ exports[`BpkBannerAlertInner should render correctly with dismissable option 1`]
                 Object {
                   "display": "inline-block",
                   "lineHeight": "1.125rem",
-                  "marginTop": "0.4375rem",
+                  "marginTop": "0.1875rem",
                   "verticalAlign": "top",
                 }
               }

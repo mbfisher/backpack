@@ -17,7 +17,7 @@ exports[`BpkNudger should render as a configurable nudger correctly 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -62,7 +62,7 @@ exports[`BpkNudger should render as a configurable nudger correctly 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -106,7 +106,7 @@ exports[`BpkNudger should render as an outline nudger correctly 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -151,7 +151,7 @@ exports[`BpkNudger should render as an outline nudger correctly 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -195,7 +195,7 @@ exports[`BpkNudger should render correctly 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -240,7 +240,7 @@ exports[`BpkNudger should render correctly 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -284,7 +284,7 @@ exports[`BpkNudger should render correctly with a "className" attribute 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -329,7 +329,7 @@ exports[`BpkNudger should render correctly with a "className" attribute 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -373,7 +373,7 @@ exports[`BpkNudger should render correctly with a value < min 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -418,7 +418,7 @@ exports[`BpkNudger should render correctly with a value < min 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -462,7 +462,7 @@ exports[`BpkNudger should render correctly with a value = max 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -507,7 +507,7 @@ exports[`BpkNudger should render correctly with a value = max 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -551,7 +551,7 @@ exports[`BpkNudger should render correctly with a value = min 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -596,7 +596,7 @@ exports[`BpkNudger should render correctly with a value = min 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -640,7 +640,7 @@ exports[`BpkNudger should render correctly with a value > max 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
@@ -685,7 +685,7 @@ exports[`BpkNudger should render correctly with a value > max 1`] = `
         Object {
           "display": "inline-block",
           "lineHeight": "1.125rem",
-          "marginTop": "0.4375rem",
+          "marginTop": "0.1875rem",
           "verticalAlign": "top",
         }
       }
